@@ -1,0 +1,6 @@
+projectKey=wordpress40
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/wordpress40
+ceTaskId=AVzBHZu-y94pK1mBhYFK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzBHZu-y94pK1mBhYFK
